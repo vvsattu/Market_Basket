@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588228089377.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3460670144",
+    "id" : "BC6B9820",
+    "lastKnownWriteTime" : 1588228124,
+    "last_content_update" : 1588228124575,
+    "path" : "C:/Users/venkatesh/Desktop/Market_Basket/Code_Project.R",
+    "project_path" : "Code_Project.R",
+    "properties" : {
+        "cursorPosition" : "65,0",
+        "scrollLine" : "47",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
